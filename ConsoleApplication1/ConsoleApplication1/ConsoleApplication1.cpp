@@ -9,6 +9,6 @@ using namespace std;
 
 void main()
 {
-	cout << "bs_kim_hi"; 
+	cout << "bs_kim_hi2"; 
 }
 
